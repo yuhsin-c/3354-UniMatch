@@ -11,7 +11,7 @@
 3.  Recording Information
     3.1 Add university to "starred" list.
     3.2 Remove university from "starred" list.
-    3.3 Export filetered information to csv.
+    3.3 Export filtered information to csv.
 4.  UI Features
     4.1 Universities in match filter page arranged in a scrollable list.
     4.2 Universities expand when selected in match filter page.
